@@ -1,0 +1,8 @@
+//Requirements
+streamlit
+pandas
+numpy
+scikit-learn
+lime
+matplotlib
+urllib3<2.0
